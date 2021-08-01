@@ -10,7 +10,7 @@ public with sharing class myclass {
 
 	}
 
-	// Line added by Georvys testing CI
+	// Line added by Georvys testing CI. 1 Agosto 2021
 	public String getAppVersion() {
 		return '1.0.0';
 	}
